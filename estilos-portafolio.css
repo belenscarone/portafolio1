@@ -1,0 +1,66 @@
+*{
+    background-color: rgb(255, 234, 237);
+    font-family:'Segoe UI';
+    text-align: justify;
+}
+
+#titulo{
+    color: rgb(131, 15, 38);
+    background-color:pink;
+    padding: 15px;
+}
+
+#subtitulo{
+    font-size: 20px;
+    padding: 20px;
+}
+
+img{
+    border-radius: 30px;
+    border: 5px solid rgb(182, 4, 60);
+    box-shadow: 5px 5px;
+    color: rgb(103, 0, 12);
+}
+
+.imagen{
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+hr{
+    width: 1200px;
+}
+
+a{
+    color:rgb(182, 4, 60)
+}
+
+h2{
+    color: rgb(131, 15, 38);
+}
+
+th{
+    color:rgb(217, 49, 102)
+}
+
+td{
+    padding-right: 50px;
+}
+
+li strong{
+    color: rgb(182, 4, 60);
+}
+
+.fondo{
+    background-color: pink;
+}
+
+.padding{
+    padding-top: 20px;
+}
+
+.centrar{
+    text-align: center;
+}
+
